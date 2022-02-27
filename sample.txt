@@ -1,1 +1,2 @@
 git 공부
+git clone 재커밋하기
