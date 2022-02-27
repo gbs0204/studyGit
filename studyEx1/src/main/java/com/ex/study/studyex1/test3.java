@@ -6,4 +6,5 @@ public class test3 {
     // 3
   //4.
     //5
+    //6
 }
