@@ -1,0 +1,20 @@
+ * 초기세팅
+git init 현위치에 깃 저장소 생서
+git config
+git config --global user.name "Your Name"
+git config --global user.email you@example.com
+
+* 명령어 모음
+git status 깃 상태조회
+ - 브랜치 생성
+git branch [브랜치명] 브랜치 생성-생성후 checkout으로 생성브랜치로 이동
+git checkou -b [브랜치명] 브랜치 생성후 생성브랜치로 이동
+
+git branch -d [브랜치명] 브랜치 삭제
+git checkout [브랜치명] 브랜치 이동
+
+
+
+
+
+git add [파일명.확장자] 파일을 스테이징 한다.
